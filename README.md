@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiapa&label=Profile%20views&color=0e75b6&style=flat" alt="matiapa" /> </p>
 
-- 🔭 I’m currently working at [Membrane Labs](https://membranelabs.com/)
+- 🎓 I’m currently studying **a masters degree in software engineering**
 
-- 🌱 I’m currently studying **a masters degree in software engineering**
-
-- 📫 How to reach me **mapablaza@itba.edu.ar**
+- 📫 You can reach me at **mapablaza@itba.edu.ar**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matiasapablaza/](https://www.linkedin.com/in/matiasapablaza/)
 
