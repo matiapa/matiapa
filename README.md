@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiapa&label=Profile%20views&color=0e75b6&style=flat" alt="matiapa" /> </p>
 
-- 🎓 I’m currently studying **a masters degree in software engineering**
+- 🎓 Studied **M.S. software engineering at ITBA**.
 
-- 📫 You can reach me at **mapablaza@itba.edu.ar**
+- 💻 Working at **MercadoLibre** as a **software engineer**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/matiasapablaza/](https://www.linkedin.com/in/matiasapablaza/)
+- 📫 You can reach me at **matiapa98@gmail.com**
 
+- 📄 Know about my experiences at my [https://www.linkedin.com/in/matiasapablaza/(Linkedin profile).
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/matiapa?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
