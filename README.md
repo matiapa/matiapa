@@ -7,9 +7,9 @@
 
 - 💻 Working at **MercadoLibre** as a **software engineer**.
 
-- 📫 You can reach me at **matiapa98@gmail.com**
+- 📫 Reach me at **matiapa98@gmail.com** or at my [https://twitter.com/matiapa98](Twitter profile).
 
-- 📄 Know about my experiences at my [https://www.linkedin.com/in/matiasapablaza/(Linkedin profile).
+- 📄 Know about my experiences at my [https://www.linkedin.com/in/matiasapablaza/](Linkedin profile).
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/matiapa?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
