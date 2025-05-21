@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">A software engineering student an passionate developer</h3>
+<h3 align="center">A software engineer and passionate builder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiapa&label=Profile%20views&color=0e75b6&style=flat" alt="matiapa" /> </p>
 
